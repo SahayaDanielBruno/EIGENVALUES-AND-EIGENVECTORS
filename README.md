@@ -21,7 +21,8 @@ e_va,e_ve=np.linalg.eig(A)
 print(f"Eigen values are {e_va} and Eigen Vectors are {e_ve}")
 ```
 ## Output:
-<img width="1343" height="909" alt="image" src="https://github.com/user-attachments/assets/9a0af84c-5f6e-4c5d-92dd-1da702e6d679" />
+<img width="928" height="376" alt="image" src="https://github.com/user-attachments/assets/6d140fc3-bc8a-4ae2-8440-dd5638fe0fba" />
+
 
 ## Result:
 Thus the Eigenvalue and Eigenvector is successfully solved using python program
